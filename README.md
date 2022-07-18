@@ -1,9 +1,13 @@
-# gas-numbers-every-solidity-dev-should-know
+# Gas Numbers Every Solidity Dev Should Know
 
 This project was inspired by Norvig's Latency Numbers, and a post in the Macro discord from a student named Justin Phu, who suggested someone make a version with gas numbers for popular calls and opcodes.
 
 Opcode gas numbers were sourced from the official Ethereum Docs, and contract-calls were sourced from Etherscan.io and converted into gas units using Wolfram Alpha for calculations.
 
+
+## live link
+This repo is available for live viewing online at the below link.
+https://broc-dev.github.io/gas-numbers-every-solidity-dev-should-know/
 
 ## dev
 Run `npm i` to install necessary node modules 
